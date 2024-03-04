@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nextamplifypostgres-dev-121657-authRole",
+      "UnauthRoleArn": "arn:aws:iam::834512928834:role/amplify-nextamplifypostgres-dev-121657-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::834512928834:role/amplify-nextamplifypostgres-dev-121657-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-nextamplifypostgres-dev-121657-deployment",
+      "UnauthRoleName": "amplify-nextamplifypostgres-dev-121657-unauthRole",
+      "StackName": "amplify-nextamplifypostgres-dev-121657",
+      "StackId": "arn:aws:cloudformation:us-east-1:834512928834:stack/amplify-nextamplifypostgres-dev-121657/0256f640-da4b-11ee-bbba-129164a686f7",
+      "AmplifyAppId": "d9iey14z2o252"
+    },
+    "categories": {
+      "function": {
+        "nextamplifypostgresda67ba06": {
+          "deploymentBucketName": "amplify-nextamplifypostgres-dev-121657-deployment",
+          "s3Key": "amplify-builds/nextamplifypostgresda67ba06-346833776d6e49507971-build.zip"
+        },
+        "login": {
+          "deploymentBucketName": "amplify-nextamplifypostgres-dev-121657-deployment",
+          "s3Key": "amplify-builds/login-564a446f594b74773452-build.zip"
+        },
+        "todoFunction": {
+          "deploymentBucketName": "amplify-nextamplifypostgres-dev-121657-deployment",
+          "s3Key": "amplify-builds/todoFunction-4d53644c6e706a643555-build.zip"
+        }
+      },
+      "auth": {
+        "nextamplifypostgres": {}
+      },
+      "api": {
+        "nextpostgres": {},
+        "auth": {}
+      }
+    }
+  }
+}

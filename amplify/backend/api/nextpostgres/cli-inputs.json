@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "paths": {
+    "/items": {
+      "name": "/items",
+      "lambdaFunction": "nextamplifypostgresda67ba06",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/login": {
+      "name": "/login",
+      "lambdaFunction": "login",
+      "permissions": {
+        "setting": "open"
+      }
+    },
+    "/todo": {
+      "name": "/todo",
+      "lambdaFunction": "todoFunction",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
