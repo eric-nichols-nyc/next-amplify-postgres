@@ -32,6 +32,12 @@
       "api": {
         "nextpostgres": {},
         "auth": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d9iey14z2o252",
+          "type": "cicd"
+        }
       }
     }
   }
